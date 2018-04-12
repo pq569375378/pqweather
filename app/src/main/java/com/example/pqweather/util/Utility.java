@@ -9,6 +9,7 @@ import com.coolweather.android.gson.Weather;
 import com.example.pqweather.db.City;
 import com.example.pqweather.db.County;
 import com.example.pqweather.db.Province;
+import com.example.pqweather.gson.Weather;
 import com.google.gson.Gson;
 
 import org.json.JSONArray;
